@@ -1,2 +1,3 @@
-# React-Bootstrap-TypeScript
-Created with CodeSandbox
+# Basic TypeScript Example
+
+A simple [create-react-app](CRA-README.md) setup, showcasing one of the latest React-Bootstrap components!
